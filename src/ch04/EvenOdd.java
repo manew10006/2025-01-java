@@ -2,7 +2,7 @@ package ch04;
 
 public class EvenOdd {
     public static void main(String[] args) {
-        // 홀, 짝 +  랜덤 숫자
+        // 홀, 짝 + 랜덤 숫자
 
         int num = 11;
         // % (mod) 연산자 사용, 나머지값을 구한다.
