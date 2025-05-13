@@ -34,7 +34,5 @@ public class forStudy {
             System.out.println(i2);
         }
 
-
-        
     }
 }
